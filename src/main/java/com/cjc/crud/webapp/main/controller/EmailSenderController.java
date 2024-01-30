@@ -27,7 +27,7 @@ public class EmailSenderController {
 	String fromEmail;
 	
 	
-	// 1):- This method is used for only send Simple Text Messages.. 
+	// 1):- This method is used for only send Simple Text Mime-Messages.. 
 	
 	//POST API
 
